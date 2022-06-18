@@ -20,3 +20,10 @@ These frameworks which are my de facto while working with Machine Learning.
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ## Projects
+- [Electric Vehicle Prediciton](./Electric-Vehicle)]
+  Concepts of Data Preprocessing and model selection were used.
+- [GTSRB](./GTSRB)
+  Concepts of Overfitting and Regularized model were used.
+- [MNIST-GAN](./MNIST-GAN)
+  Concepts of Adverserial Networks were explored.
+
