@@ -6,7 +6,7 @@
  
 
 
-I am psppiagicw a programmer/coder at heart.I am also math nerd with interest in AI/ML.
+I am pspiagicw a programmer/coder at heart.I am also math nerd with interest in AI/ML.
 
 <div align="center">
   
